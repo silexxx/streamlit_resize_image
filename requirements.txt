@@ -1,0 +1,2 @@
+streamlit==0.61.0
+pip install Pillow==2.2.1
